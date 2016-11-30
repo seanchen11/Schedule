@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id	    = "com.schedule.project"
+		versionCode = "10"
+		version     = "0.2.0" >
+
+	<name>Schedule</name>
+
+	<description>
+		schedule yourfree time
+	</description>
+
+	<author href="http://www.nccu.edu.tw/?locale=zh_tw" email="103306086@nccu.edu.tw">
+		NCCU MIS
+	</author>
+
+	<!-- current version of PhoneGap -->
+	<preference name="phonegap-version" value="3.5.0" />
+	<!-- 設定畫面固定為水平(landscape)、垂直(portrait) -->
+	<preference name="orientation" value="landscape" />
+	<!-- 加入其它plugin設定 -->
+</widget>

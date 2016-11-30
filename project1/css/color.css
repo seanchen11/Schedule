@@ -1,0 +1,25 @@
+
+h1#text1{
+  margin:0px;padding:0px;
+  top:100px;
+  position:absolute;
+  font-size:20px;
+  color:#FF0000;
+  margin-left:40px;
+}
+h1#text2{
+  margin:0px;padding:5px;
+  position:absolute;
+  font-size:20px;
+  color:#FFFFFF;
+  top:115px;
+  margin-left:100px;
+  z-index:1;
+  text-shadow:5px 5px 5px #F00;
+}
+form{
+  margin-top:100px;
+  margin-left:0;
+  margin-right:0;
+  padding:5px;
+}
