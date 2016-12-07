@@ -16,6 +16,7 @@
       <!-- Optional theme -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="css/main.css">
+      <link rel="stylesheet" href="css/event.css">
       <link rel="stylesheet" href="css/table.css">
       <link rel="stylesheet" href="php/connect.php">
       <link rel="stylesheet" type="text/css" href="css/color.css">
@@ -49,11 +50,11 @@
          <div>
            <div class="collapse navbar-collapse" id="myNavbar">
              <ul class="nav navbar-nav">
-               <li><a href="#section0">電影</a></li>
+               <li><a href="./movie.php">電影</a></li>
                <li><a href="#section1">旅遊</a></li>
                <li><a href="#section2">玩樂</a></li>
-               <li><a href="#section2">美食</a></li>
-               <li><a href="#section2">學習</a></li>
+               <li><a href="./test.php">美食</a></li>
+               <li><a href="./learn.php">學習</a></li>
                <li><a href="./randomMatch.php">隨機配對</a></li>
                <li><a href="./aboutus.php">關於我們</a></li>
                </ul>

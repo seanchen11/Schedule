@@ -23,17 +23,13 @@ include "header.php";
       <td bgcolor="#ff5500"><?php echo $rs[1];?></td>
       <td><img width="100px" height="100px" src="<?php echo $rs[8];?>"</td>
     </tr>
-  <?php
-
-  ?>
   </table>
 </div>
-  <div class="footer">
-    <p>&copy; NCCU MIS</p>
-  </div>
 
 
 <script src="script/showSlide.js">
 </script>
-</body>
-</html>
+
+<?php
+include "footer.php";
+?>

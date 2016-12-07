@@ -7,14 +7,13 @@
 include "header.php";
 ?>
 
-
 <div class="collum">
   <table class="table" width="700" border="2" style="color:black">
     <tr class="headerrow">
       <td>name</td>
       <td>gender</td>
-      <td>password</td>
       <td>account</td>
+      <td>password</td>
       <td>profile picture</td>
     </tr>
   <?php
@@ -90,12 +89,11 @@ include "header.php";
   </pre>
 </div>
 
-  <div class="footer">
-    <p>&copy; NCCU MIS</p>
-  </div>
 
 
 <script src="script/showSlide.js">
 </script>
-</body>
-</html>
+
+<?php
+include "footer.php";
+?>

@@ -1,0 +1,15 @@
+.box{
+  float:left;
+  width:150px;
+  margin-right: 0px;
+  margin-left: 170px;
+  margin-bottom: 90px;
+}
+.boximg{
+  border-radius: 16px;
+  width: 210px;
+  height: 310px;
+}
+.main{
+  padding-bottom:100%;
+}
